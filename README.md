@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @konsultant
-- 👀 I’m interested in web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web technology
+- 🌱 I’m currently learning ruby on rails 
+- 💞️ I’m looking to collaborate on someone who interested in RoR
+- 📫 You can ask me here about something
 
 <!---
 konsultant/konsultant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
